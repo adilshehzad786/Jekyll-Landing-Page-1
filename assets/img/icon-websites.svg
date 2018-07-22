@@ -1,0 +1,46 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3fa9f5;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke: #7ac943;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <title>icon-websites</title>
+  <g>
+    <rect class="cls-1" x="6" y="6" width="36" height="6"/>
+    <circle class="cls-2" cx="9" cy="9" r="1"/>
+    <circle class="cls-2" cx="13" cy="9" r="1"/>
+    <circle class="cls-2" cx="17" cy="9" r="1"/>
+    <rect class="cls-3" x="5" y="5" width="38" height="38" rx="2" ry="2"/>
+    <line class="cls-4" x1="5" y1="12" x2="43" y2="12"/>
+    <g>
+      <polyline class="cls-5" points="17.51 31.49 13.87 27.86 17.51 24.22"/>
+      <polyline class="cls-5" points="30.49 24.22 34.13 27.86 30.49 31.49"/>
+      <line class="cls-5" x1="25.44" y1="24" x2="21.58" y2="31.71"/>
+    </g>
+  </g>
+</svg>

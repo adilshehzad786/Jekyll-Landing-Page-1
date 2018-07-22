@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1499px" height="400px" viewBox="0 0 1499 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>wave-6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-0.00104391488%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#037391" offset="12%"></stop>
+            <stop stop-color="#063F4C" offset="80%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wave-6" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <path d="M1499.58361,9.82608696 C1307.08196,-10.916996 1132.09848,6.66403162 935.938533,12.9881423 C835.875744,16.2687747 560.036352,5.53359684 460.181758,10.229249 C248.843358,20.1501976 210.525446,23.5573123 0,9.82608696 L0,399.486166 L1499.5043,399.486166 L1499.58361,9.82608696 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -41,3 +41,5 @@ repository: xraystyle1980/Jekyll-Landing-Page
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-cayman
